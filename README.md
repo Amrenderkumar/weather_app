@@ -12,4 +12,5 @@ The all feature of are include their github .
 5. user usability.
 
 # Language used
-1. html
+1. Html
+2. Css
