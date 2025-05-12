@@ -14,6 +14,7 @@ The all feature of are include their github .
 
 🌓 Light and dark mode support
 
+📅 Forecast for upcoming days (optional)
 # feature of weather app.
 1. sutable.
 2. Consistent. 
