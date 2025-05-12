@@ -13,6 +13,7 @@ The all feature of are include their github .
 🌡️ Display temperature, humidity, wind speed, and weather conditions
 
 🌓 Light and dark mode support
+
 # feature of weather app.
 1. sutable.
 2. Consistent. 
