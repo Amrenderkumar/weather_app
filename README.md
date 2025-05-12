@@ -6,7 +6,11 @@ At use of this image like wather app show on the below.
 The all feature of are include their github .
 
 🚀 Features
+🌍 Search weather by city or location
 
+📍 Get current weather based on geolocation
+
+🌡️ Display temperature, humidity, wind speed, and weather conditions
 # feature of weather app.
 1. sutable.
 2. Consistent. 
