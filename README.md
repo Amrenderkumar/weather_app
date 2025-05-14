@@ -36,7 +36,13 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 The Weather App fetches real-time weather data from the OpenWeatherMap API using either:<br>
 * City-based search: User enters a city name, and the app makes an API call to retrieve weather details.
 * Geolocation-based weather: Uses the browser's geolocation API to get the user's current coordinates and fetch nearby weather data.
+# ⚙️ Environment Variables
+This project uses environment variables to securely store API keys. Create a .env file in the root directory and add the following:
 
+env
+Copy
+Edit
+REACT_APP_WEATHER_API_KEY=your_api_key_here
 # 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
