@@ -56,8 +56,8 @@ REACT_APP_WEATHER_API_KEY=your_api_key_here
 * Animated weather effects
 
 🙋‍♂️ FAQ
-Q: What happens if a city isn't found?
-A: The app displays a "City not found" message and clears previous weather data.  
+* Q: What happens if a city isn't found?
+* A: The app displays a "City not found" message and clears previous weather data.  
 
 # 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
