@@ -39,9 +39,7 @@ The Weather App fetches real-time weather data from the OpenWeatherMap API using
 # ⚙️ Environment Variables
 This project uses environment variables to securely store API keys. Create a .env file in the root directory and add the following:
 
-env
-Copy
-Edit
+<br>
 REACT_APP_WEATHER_API_KEY=your_api_key_here
 # 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
