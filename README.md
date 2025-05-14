@@ -42,6 +42,19 @@ This project uses environment variables to securely store API keys. Create a .en
 <br>
 REACT_APP_WEATHER_API_KEY=your_api_key_here
 
+# 💡 Future Improvements
+7-day weather forecast
+
+Weather radar integration
+
+Language localization
+
+Caching for offline support
+
+Progressive Web App (PWA) support
+
+Animated weather effects
+
 # 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
