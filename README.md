@@ -60,6 +60,15 @@ REACT_APP_WEATHER_API_KEY=your_api_key_here
 * A: The app displays a "City not found" message and clears previous weather data.  
 * Q: Can I use this app on mobile devices?
 * A: Yes! The app is fully responsive and mobile-friendly.
+# ✨ Acknowledgements
+* OpenWeatherMap
+
+* Font Awesome
+
+* Unsplash – For background images (if used)
+
+* React Icons (if used)
+
 # 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
