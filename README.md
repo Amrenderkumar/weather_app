@@ -32,6 +32,9 @@ The all feature of are include their github .
 # 🙌 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
+# 🧠 How It Works
+The Weather App fetches real-time weather data from the OpenWeatherMap API using either:
+
 # 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
