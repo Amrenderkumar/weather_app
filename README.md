@@ -6,7 +6,7 @@ At use of this image like wather app show on the below.
 The all feature of are include their github .
  
 # 🚀 Features
-🌍 Search weather by city or location
+🌍 Search weather by city or location 
 
 📍 Get current weather based on geolocation 
 
