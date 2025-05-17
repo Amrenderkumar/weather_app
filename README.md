@@ -8,7 +8,7 @@ The all feature of are include their github .
 # 🚀 Features
 🌍 Search weather by city or location
 
-📍 Get current weather based on geolocation
+📍 Get current weather based on geolocation 
 
 🌡️ Display temperature, humidity, wind speed, and weather conditions
 
